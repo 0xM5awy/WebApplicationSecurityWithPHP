@@ -1,1 +1,0 @@
-<font color="green">Welcome to the challenge :))</font>
