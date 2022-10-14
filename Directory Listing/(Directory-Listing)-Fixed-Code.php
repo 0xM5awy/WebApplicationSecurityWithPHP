@@ -4,7 +4,7 @@ from anyone trying to open the Directory and the content will be like.
 ```````````````````
 Options -Indexes
 ```````````````````
-1.The second way is to use the `.htaccess` to protect the file with `IP`
+2.The second way is to use the `.htaccess` to protect the file with `IP`
 So anyone `IP` who is not on the `.htaccess` file will not be able to
 open the Directory and the content will be like.
 ```````````````````
